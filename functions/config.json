@@ -1,0 +1,37 @@
+[
+    {
+        "name": "cerca",
+        "private": true,
+        "run_as_system": true
+    },
+    {
+        "name": "cerca2",
+        "private": true,
+        "run_as_system": true
+    },
+    {
+        "name": "listnames",
+        "private": true,
+        "run_as_system": true
+    },
+    {
+        "name": "insert",
+        "private": true,
+        "run_as_system": true
+    },
+    {
+        "name": "listall",
+        "private": true,
+        "run_as_system": true
+    },
+    {
+        "name": "cercaid",
+        "private": true,
+        "run_as_system": true
+    },
+    {
+        "name": "cercanc",
+        "private": true,
+        "run_as_system": true
+    }
+]
